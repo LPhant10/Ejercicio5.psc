@@ -4,7 +4,7 @@ Algoritmo ejercicio_5
 	contador =1
 	suma =0
 	mientras contador <=10 Hacer
-		si x mod 2==11 Entonces
+		si x mod 2==1 Entonces
 			suma = suma + x
 			contador = contador + 1
 			Escribir x
